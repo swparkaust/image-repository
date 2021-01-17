@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Image Repository",
+    "description": "Media Sharing",
+    "slug": "image-repository",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#007AFF",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.ryuhyun.ImageRepository",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ryuhyun.ImageRepository",
+      "versionCode": 1
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+# Ignore all node_modules
+
+**/node_modules/**
+
+# Git submodules
+
+# Other
+
+# TODO: Lint tools too
